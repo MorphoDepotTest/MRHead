@@ -1,8 +1,7 @@
-# Release v3
+# Release v2
 
 ## Previous releases
-- [v1](https://github.com/MorphoDepotTest/MRHead/tree/v1)
-- [v2](https://github.com/MorphoDepotTest/MRHead/tree/v2)
+- [v1](README-v1.md)
 
 ## MorphoDepot Repository
 Repository for segmentation of a specimen scan. See [this JSON file](MorphoDepotAccession.json) for specimen details.
@@ -12,5 +11,6 @@ Repository for segmentation of a specimen scan. See [this JSON file](MorphoDepot
 * Dimensions: (256, 256, 130)
 * Spacing (mm): (1.0, 1.0, 1.2999954223632812)
 
-## Screenshots for v3
-![screenshot-2.png](screenshots/screenshot-2.png)
+## Screenshots for v2
+![with head](screenshots/screenshot-1.png)
+_with head_
